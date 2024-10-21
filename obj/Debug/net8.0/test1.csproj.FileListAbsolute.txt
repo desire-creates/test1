@@ -1,0 +1,15 @@
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/test1.AssemblyInfoInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/test1.AssemblyInfo.cs
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/test1.csproj.CoreCompileInputs.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/test1.sourcelink.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/bin/Debug/net8.0/test1
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/bin/Debug/net8.0/test1.deps.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/bin/Debug/net8.0/test1.runtimeconfig.json
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/bin/Debug/net8.0/test1.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/bin/Debug/net8.0/test1.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/test1.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/refint/test1.dll
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/test1.pdb
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/test1.genruntimeconfig.cache
+/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM 313/test1/obj/Debug/net8.0/ref/test1.dll
